@@ -1,0 +1,12 @@
+// Copyright 2017 Silicon Laboratories, Inc.
+//
+//
+
+Executing: bgbuild.exe (C:\SiliconLabs\SimplicityStudio\v4\developer\sdks\gecko_sdk_suite\v2.0\protocol\bluetooth_2.6\bin\bgbuild.exe)
+Standard output
+ALL OK
+
+Error/Warning output
+Warning: Generic Attribute Service should be the first service in GATT database. Otherwise its attribute handles may change when the database is updated in future.
+
+
